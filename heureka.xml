@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>49915334295890</ITEM_ID>
@@ -911,126 +912,6 @@ Customer TestimonialsDon't just take our word for it! Here’s what some satisfi
     <STOCK>0</STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <ITEM_ID>50371481534802</ITEM_ID>
-    <PRODUCTNAME>Byredo Blanche EDP100 ml Default Title</PRODUCTNAME>
-    <PRODUCT>Byredo Blanche EDP100 ml</PRODUCT>
-    <URL>https://qjdh0k-kq.myshopify.com/collections/all/byredo-blanche-edp-100ml</URL>
-    <PRICE_VAT>1.00</PRICE_VAT>
-    <MANUFACTURER>Byredo</MANUFACTURER>
-    <CATEGORYTEXT>Perfume</CATEGORYTEXT>
-    <EAN>7.34003E+12</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>79</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>9966868365650</ITEMGROUP_ID>
-    <SKU>NT202426</SKU>
-    <STOCK>0</STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>50371481600338</ITEM_ID>
-    <PRODUCTNAME>Byredo Gypsy Water EDP 100ml (unisex) Default Title</PRODUCTNAME>
-    <PRODUCT>Byredo Gypsy Water EDP 100ml (unisex)</PRODUCT>
-    <URL>https://qjdh0k-kq.myshopify.com/collections/all/byredo-gypsy-water-edp-100ml-unisex</URL>
-    <PRICE_VAT>1.00</PRICE_VAT>
-    <MANUFACTURER>Byredo</MANUFACTURER>
-    <CATEGORYTEXT>Perfume</CATEGORYTEXT>
-    <EAN>7.34003E+12</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>79</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>9966868431186</ITEMGROUP_ID>
-    <SKU>NT202425</SKU>
-    <STOCK>0</STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>50371481633106</ITEM_ID>
-    <PRODUCTNAME>Byredo Mojave Ghost Perfume for Hair 75ml (unisex) Default Title</PRODUCTNAME>
-    <PRODUCT>Byredo Mojave Ghost Perfume for Hair 75ml (unisex)</PRODUCT>
-    <URL>https://qjdh0k-kq.myshopify.com/collections/all/byredo-mojave-ghost-perfume-for-har-75ml-unisex</URL>
-    <PRICE_VAT>1.00</PRICE_VAT>
-    <MANUFACTURER>Byredo</MANUFACTURER>
-    <CATEGORYTEXT>Perfume</CATEGORYTEXT>
-    <EAN>7.34003E+12</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>79</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>9966868463954</ITEMGROUP_ID>
-    <SKU>NT202427</SKU>
-    <STOCK>0</STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>50371482779986</ITEM_ID>
-    <PRODUCTNAME>Chloé EDP 75 ml + EDP MINI 5 ml + BL 100 ml (Women) Default Title</PRODUCTNAME>
-    <PRODUCT>Chloé EDP 75 ml + EDP MINI 5 ml + BL 100 ml (Women)</PRODUCT>
-    <URL>https://qjdh0k-kq.myshopify.com/collections/all/chloe-edp-ml-edp-mini-ml-bl-100ml-women</URL>
-    <PRICE_VAT>1.00</PRICE_VAT>
-    <MANUFACTURER>Chloé</MANUFACTURER>
-    <CATEGORYTEXT>Perfume</CATEGORYTEXT>
-    <EAN>3.6163E+12</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>79</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>9966869086546</ITEMGROUP_ID>
-    <SKU>NT202408</SKU>
-    <STOCK>0</STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>50371482812754</ITEM_ID>
-    <PRODUCTNAME>Chloé Nomade EDP 50 ml + BL 100 ml (Women) Default Title</PRODUCTNAME>
-    <PRODUCT>Chloé Nomade EDP 50 ml + BL 100 ml (Women)</PRODUCT>
-    <URL>https://qjdh0k-kq.myshopify.com/collections/all/chloe-nomade-edp-ml-bl-100ml-women</URL>
-    <PRICE_VAT>1.00</PRICE_VAT>
-    <MANUFACTURER>Chloé</MANUFACTURER>
-    <CATEGORYTEXT>Perfume</CATEGORYTEXT>
-    <EAN>3.6163E+12</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>79</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>9966869119314</ITEMGROUP_ID>
-    <SKU>NT202406</SKU>
-    <STOCK>0</STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <ITEM_ID>50371481698642</ITEM_ID>
     <PRODUCTNAME>Dolce &amp; Gabbana The One Pour Homme Eau De Toilette 100ml (Men) Default Title</PRODUCTNAME>
     <PRODUCT>Dolce &amp; Gabbana The One Pour Homme Eau De Toilette 100ml (Men)</PRODUCT>
@@ -1189,30 +1070,6 @@ Customer TestimonialsDon't just take our word for it! Here’s what some satisfi
     <STOCK>5</STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <ITEM_ID>50371482091858</ITEM_ID>
-    <PRODUCTNAME>Gucci Bloom EDP 10ml Default Title</PRODUCTNAME>
-    <PRODUCT>Gucci Bloom EDP 10ml</PRODUCT>
-    <URL>https://qjdh0k-kq.myshopify.com/collections/all/gucci-bloom-edp-10ml</URL>
-    <PRICE_VAT>1.00</PRICE_VAT>
-    <MANUFACTURER>Gucci</MANUFACTURER>
-    <CATEGORYTEXT>Perfume</CATEGORYTEXT>
-    <EAN>3.6163E+12</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>79</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>9966868693330</ITEMGROUP_ID>
-    <SKU>ORS202501</SKU>
-    <STOCK>0</STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <ITEM_ID>50040237424978</ITEM_ID>
     <PRODUCTNAME>Guess Seductive Homme EDT 125 ml Default Title</PRODUCTNAME>
     <PRODUCT>Guess Seductive Homme EDT 125 ml</PRODUCT>
@@ -1263,102 +1120,6 @@ Customer TestimonialsDon't just take our word for it! Here’s what some satisfi
     </DELIVERY>
     <ITEMGROUP_ID>9862326387026</ITEMGROUP_ID>
     <SKU>NT202414</SKU>
-    <STOCK>0</STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>50371482190162</ITEM_ID>
-    <PRODUCTNAME>Herbal Essences Bio Renew Coconut Milk Hydrating Hair Mask 450ml Default Title</PRODUCTNAME>
-    <PRODUCT>Herbal Essences Bio Renew Coconut Milk Hydrating Hair Mask 450ml</PRODUCT>
-    <URL>https://qjdh0k-kq.myshopify.com/collections/all/herbal-essences-bio-renew-coconut-milk-hydrating-hair-450ml</URL>
-    <PRICE_VAT>220.00</PRICE_VAT>
-    <MANUFACTURER>Herbal Essences</MANUFACTURER>
-    <CATEGORYTEXT>Cosmetic</CATEGORYTEXT>
-    <EAN>8006450088821</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>79</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>9966868791634</ITEMGROUP_ID>
-    <SKU>NT202418</SKU>
-    <STOCK>46</STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>50371482550610</ITEM_ID>
-    <PRODUCTNAME>Herbal Essences Maska s avokádem a aloe 450 ml Default Title</PRODUCTNAME>
-    <PRODUCT>Herbal Essences Maska s avokádem a aloe 450 ml</PRODUCT>
-    <URL>https://qjdh0k-kq.myshopify.com/collections/all/herbal-essences-maska-s-avokadem-a-450ml</URL>
-    <PRICE_VAT>1.00</PRICE_VAT>
-    <MANUFACTURER>Herbal Essences</MANUFACTURER>
-    <CATEGORYTEXT>Perfume</CATEGORYTEXT>
-    <EAN>8.00654E+12</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>79</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>9966868857170</ITEMGROUP_ID>
-    <SKU>NT202417</SKU>
-    <STOCK>0</STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>50371482583378</ITEM_ID>
-    <PRODUCTNAME>Hermès Twilly d'Hermès EDP 50 ml + EDP MINI 7.5 ml + BL 40ml (woman) Default Title</PRODUCTNAME>
-    <PRODUCT>Hermès Twilly d'Hermès EDP 50 ml + EDP MINI 7.5 ml + BL 40ml (woman)</PRODUCT>
-    <URL>https://qjdh0k-kq.myshopify.com/collections/all/hermes-twilly-dhermes-edp-ml-edp-mini-ml-bl-40ml-woman</URL>
-    <PRICE_VAT>1.00</PRICE_VAT>
-    <MANUFACTURER>Hermès</MANUFACTURER>
-    <CATEGORYTEXT>Perfume</CATEGORYTEXT>
-    <EAN>3.34613E+12</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>79</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>9966868889938</ITEMGROUP_ID>
-    <SKU>NT202405</SKU>
-    <STOCK>0</STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>50371482648914</ITEM_ID>
-    <PRODUCTNAME>Huda Beauty Must Have Minis Default Title</PRODUCTNAME>
-    <PRODUCT>Huda Beauty Must Have Minis</PRODUCT>
-    <URL>https://qjdh0k-kq.myshopify.com/collections/all/huda-beauty-must-have-minis</URL>
-    <PRICE_VAT>1.00</PRICE_VAT>
-    <MANUFACTURER>Huda</MANUFACTURER>
-    <CATEGORYTEXT>Perfume</CATEGORYTEXT>
-    <EAN>6.29111E+12</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>79</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>9966868955474</ITEMGROUP_ID>
-    <SKU>NT202420</SKU>
     <STOCK>0</STOCK>
   </SHOPITEM>
   <SHOPITEM>
@@ -1495,8 +1256,7 @@ Customer TestimonialsDon't just take our word for it! Here’s what some satisfi
     <IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/0927/0532/5394/files/Lattafa-24_-Carat-Pure-Gold-Eau-De-Parfum-100-ml-_unisex__2.jpg?v=1751203304</IMGURL_ALTERNATIVE>
     <PRICE_VAT>370.00</PRICE_VAT>
     <MANUFACTURER>ORRIS</MANUFACTURER>
-    <CATEGORYTEXT>
-    </CATEGORYTEXT>
+    <CATEGORYTEXT></CATEGORYTEXT>
     <EAN>6291106063998</EAN>
     <DELIVERY_DATE>0</DELIVERY_DATE>
     <DELIVERY>
@@ -1913,7 +1673,7 @@ Customer TestimonialsDon't just take our word for it! Here’s what some satisfi
     <PRICE_VAT>344.00</PRICE_VAT>
     <MANUFACTURER>Lattafa</MANUFACTURER>
     <CATEGORYTEXT>Perfume</CATEGORYTEXT>
-    <EAN>6225709773235</EAN>
+    <EAN>6225709721238</EAN>
     <DELIVERY_DATE>0</DELIVERY_DATE>
     <DELIVERY>
       <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
@@ -2033,30 +1793,6 @@ Customer TestimonialsDon't just take our word for it! Here’s what some satisfi
     <STOCK>6</STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <ITEM_ID>50371483107666</ITEM_ID>
-    <PRODUCTNAME>OLAPLEX Strong Days Ahead Kit Set 550ml-No.3, 4, 5 Default Title</PRODUCTNAME>
-    <PRODUCT>OLAPLEX Strong Days Ahead Kit Set 550ml-No.3, 4, 5</PRODUCT>
-    <URL>https://qjdh0k-kq.myshopify.com/collections/all/olaplex-strong-days-ahead-kit-set-5ml-no-3-4-5</URL>
-    <PRICE_VAT>1.00</PRICE_VAT>
-    <MANUFACTURER>OLAPLEX</MANUFACTURER>
-    <CATEGORYTEXT>Perfume</CATEGORYTEXT>
-    <EAN>8.50045E+11</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>79</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>9966869348690</ITEMGROUP_ID>
-    <SKU>ORS202503</SKU>
-    <STOCK>0</STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <ITEM_ID>50953463791954</ITEM_ID>
     <PRODUCTNAME>Rasasi Hawas Black Eau De Parfum 100 ml (man) Default Title</PRODUCTNAME>
     <PRODUCT>Rasasi Hawas Black Eau De Parfum 100 ml (man)</PRODUCT>
@@ -2134,32 +1870,6 @@ Customer TestimonialsDon't just take our word for it! Here’s what some satisfi
     <STOCK>6</STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <ITEM_ID>50953909502290</ITEM_ID>
-    <PRODUCTNAME>Shopping Bag Default Title</PRODUCTNAME>
-    <PRODUCT>Shopping Bag</PRODUCT>
-    <URL>https://qjdh0k-kq.myshopify.com/collections/all/shopping-bag</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/0927/0532/5394/files/ShoppingBag.jpg?v=1749997669</IMGURL>
-    <PRICE_VAT>5.00</PRICE_VAT>
-    <MANUFACTURER>ORRIS</MANUFACTURER>
-    <CATEGORYTEXT>
-    </CATEGORYTEXT>
-    <EAN>ORS99999BAG</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>79</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>10126250180946</ITEMGROUP_ID>
-    <SKU>ORS99999BAG</SKU>
-    <STOCK>200</STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <ITEM_ID>51034319094098</ITEM_ID>
     <PRODUCTNAME>Versace Blue Jeans Eau De Toilette 75 ml (man) Default Title</PRODUCTNAME>
     <PRODUCT>Versace Blue Jeans Eau De Toilette 75 ml (man)</PRODUCT>
@@ -2210,30 +1920,6 @@ Customer TestimonialsDon't just take our word for it! Here’s what some satisfi
     <ITEMGROUP_ID>10142717378898</ITEMGROUP_ID>
     <SKU>ORS202563</SKU>
     <STOCK>6</STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>50371483140434</ITEM_ID>
-    <PRODUCTNAME>Versace Miniature Set Default Title</PRODUCTNAME>
-    <PRODUCT>Versace Miniature Set</PRODUCT>
-    <URL>https://qjdh0k-kq.myshopify.com/collections/all/versace-miniature-set</URL>
-    <PRICE_VAT>1.00</PRICE_VAT>
-    <MANUFACTURER>Versace</MANUFACTURER>
-    <CATEGORYTEXT>Perfume</CATEGORYTEXT>
-    <EAN>8.011E+12</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>79</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>89</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>9966869381458</ITEMGROUP_ID>
-    <SKU>ORS202502</SKU>
-    <STOCK>0</STOCK>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>49945961922898</ITEM_ID>
